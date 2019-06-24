@@ -6,3 +6,4 @@ build/
 user.gradle
 local.properties
 .directory
+.idea/
