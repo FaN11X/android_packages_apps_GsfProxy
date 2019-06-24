@@ -7,3 +7,5 @@ user.gradle
 local.properties
 .directory
 .idea/
+*.apk
+/services-framework-proxy/build
